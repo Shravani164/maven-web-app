@@ -96,14 +96,14 @@
 	
 	    <repository>
 	      <id>nexus</id>
-	      <name>Mithun Technologies Releases Nexus Repository</name>
-	      <url>http://172.31.18.88:9980/mithuntechnologies/repository/canarabank-releases/</url>
+	      <name>n-release</name>
+	      <url>http://52.14.208.35:8081/repository/n-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>Mithun Technologies Snapshot Nexus Repository </name>
-	      <url>http://172.31.18.88:9980/mithuntechnologies/repository/canarabank-snapshot/</url>
+	      <name>n-snapshot</name>
+	      <url>http://52.14.208.35:8081/repository/n-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
